@@ -2,7 +2,7 @@
 using namespace std;
 class TICTACTOE
 {
-private :
+private:
 	int getXcoord();
 	int getYcoord();
 	bool placemarker(int x, int y, char current);
